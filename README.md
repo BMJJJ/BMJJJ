@@ -87,3 +87,5 @@ PDF 다운로드 : [PDF 다운로드 링크]
 * **기타**
    * 자동화 처리 (일일 날씨 정보 업데이트, 주간 인기 산책로 선정) - Spring Scheduler
    * 산책 거리 측정 기능
+ 
+     ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BMJJJ&layout=compact)
